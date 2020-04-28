@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "nginx": "0.0.0",
+    "react-beautiful-dnd": "^13.0.0"
+  }
+}
